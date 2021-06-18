@@ -1,8 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
+/**
+ * main - The entry point of my program
+ *
+ * Return: Return O if there is no error in main program
+ */
+
 int main(void)
 {
-printf("with proper grammar, the outcome is a piece of art");
+printf("with proper grammar, the outcome is a piece of art,");
 return (0);
 }  
