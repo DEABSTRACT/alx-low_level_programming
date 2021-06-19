@@ -1,15 +1,12 @@
 #include <stdio.h>
-#include <string.h>
 
 /**
- * main - The entry point of my program
+ *main - Entry point
  *
- * Return: Return O if there is no error in main program
-*/
-
-
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art, \n");
-return (0);
+  printf("with proper grammar, but the outcome is a piece of art,\n");
+  return (0);
 }
